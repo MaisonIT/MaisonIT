@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Mykhailo 👋
 
-<!--
-**MaisonIT/MaisonIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Front-End Developer | HTML, SCSS, JavaScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I build modern, responsive landing pages using HTML, SCSS (BEM), and JavaScript.  
+I focus on clean structure, performance, and user-friendly UI.
+
+- 🌍 Based in Ukraine, Kyiv  
+- 💻 Front-End Developer  
+- 🚀 Open to freelance and job opportunities  
+
+---
+
+## 🛠 Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,git,github,figma,vscode" />
+</p>
+
+---
+
+## 📂 Portfolio
+🔗 https://github.com/MaisonIT/portfolio-projects  
+
+---
+
+## 📫 Contact
+- Email: frontdev.m@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mfrontdev/
