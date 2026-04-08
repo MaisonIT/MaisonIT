@@ -17,7 +17,7 @@ I focus on clean structure, performance, and user-friendly UI.
 ## 🛠 Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,vue,git,github,figma,vscode" />
 </p>
 
 ---
