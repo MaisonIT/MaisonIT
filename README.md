@@ -1,6 +1,6 @@
 # Hi there, I'm Mykhailo 👋
 
-## 🚀 Front-End Developer | HTML, SCSS, JavaScript
+## 🚀 Front-End Developer | HTML, SCSS, JavaScript, Vue.js
 
 ---
 
